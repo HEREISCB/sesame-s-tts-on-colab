@@ -13,6 +13,6 @@ That is, that is all.
 I have provided a **Colab notebook**, along with a file and the link.  
 So, you can choose any option and just play around.  
 
-It's very interesting, to be honest. **Go ahead! I’ve tried something.** 🚀  
+It's very interesting, to be honest. **Go ahead! Try it.** 
 
 🔗 **[Try it on Colab](https://colab.research.google.com/drive/1xbPP5kA_eGCc4MBrM3Sn8KRt-DSdj9si?usp=sharing)**  
