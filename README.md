@@ -1,9 +1,18 @@
-# sesame-s-tts-on-colab  
+# Sesame-S-TTS on Colab  
 
-Anyone wants to try the most advanced CSM? That's Coherent Speech Models.  
-Very interesting actually. But if I had to describe this in easier terms, I would say a TTS that can understand the way humans speak, like the emotions behind words.  
-And, well, **`it just translates your text words into voice with emotions.`** 
+Anyone wants to try the most advanced **CSM**? *(That's Coherent Speech Models.)*  
+Very interesting actually. But if I had to describe this in simpler terms, I would say:  
+
+A **TTS that understands how humans speak**, capturing the emotions behind words.  
+And, well,  
+
+> **`it just translates your text words into voice with emotions.`**  
 
 That is, that is all.  
 
-I have just given you a Colab notebook. Well, a file and the link. So you can just choose anyone you like and just play around. It's very interesting, to be honest. Go ahead. I have tried something.
+I have provided a **Colab notebook**, along with a file and the link.  
+So, you can choose any option and just play around.  
+
+It's very interesting, to be honest. **Go ahead! I’ve tried something.** 🚀  
+
+🔗 **[Try it on Colab](https://colab.research.google.com/drive/1xbPP5kA_eGCc4MBrM3Sn8KRt-DSdj9si?usp=sharing)**  
